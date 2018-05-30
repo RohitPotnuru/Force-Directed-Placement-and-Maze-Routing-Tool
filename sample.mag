@@ -1,0 +1,1017 @@
+magic
+tech scmos
+timestamp
+<< pdiffusion >>
+rect 38 16 44 22
+<< labels >>
+rlabel pdiffusion 38 16 44 22 0 cell_no = 1
+<< pdiffusion >>
+rect 16 16 22 22
+<< labels >>
+rlabel pdiffusion 16 16 22 22 0 cell_no = 2
+<< pdiffusion >>
+rect 38 60 44 66
+<< labels >>
+rlabel pdiffusion 38 60 44 66 0 cell_no = 3
+<< pdiffusion >>
+rect 82 38 88 44
+<< labels >>
+rlabel pdiffusion 82 38 88 44 0 cell_no = 4
+<< pdiffusion >>
+rect 82 16 88 22
+<< labels >>
+rlabel pdiffusion 82 16 88 22 0 cell_no = 5
+<< pdiffusion >>
+rect 60 16 66 22
+<< labels >>
+rlabel pdiffusion 60 16 66 22 0 cell_no = 6
+<< pdiffusion >>
+rect 38 38 44 44
+<< labels >>
+rlabel pdiffusion 38 38 44 44 0 cell_no = 7
+<< pdiffusion >>
+rect 16 38 22 44
+<< labels >>
+rlabel pdiffusion 16 38 22 44 0 cell_no = 8
+<< pdiffusion >>
+rect 16 60 22 66
+<< labels >>
+rlabel pdiffusion 16 60 22 66 0 cell_no = 9
+<< pdiffusion >>
+rect 60 38 66 44
+<< labels >>
+rlabel pdiffusion 60 38 66 44 0 cell_no = 10
+<< poly >>
+rect 61 37 62 38
+<< labels >>
+rlabel poly 61 37 62 38 0  T1
+<< poly >>
+rect 64 37 65 38
+<< labels >>
+rlabel poly 64 37 65 38 0  T2
+<< metal1 >>
+rect 64 36 65 37
+<< metal1 >>
+rect 64 35 65 36
+<< metal1 >>
+rect 64 34 65 35
+<< metal1 >>
+rect 64 33 65 34
+<< labels >>
+rlabel metal1 64 33 65 34 0 net1
+<< metal1 >>
+rect 64 32 65 33
+<< metal1 >>
+rect 64 31 65 32
+<< metal1 >>
+rect 63 31 64 32
+<< metal1 >>
+rect 62 31 63 32
+<< metal1 >>
+rect 61 31 62 32
+<< metal1 >>
+rect 61 32 62 33
+<< metal1 >>
+rect 61 33 62 34
+<< metal1 >>
+rect 61 34 62 35
+<< metal1 >>
+rect 61 35 62 36
+<< metal1 >>
+rect 61 36 62 37
+<< metal1 >>
+rect 61 37 62 38
+<< poly >>
+rect 17 59 18 60
+<< labels >>
+rlabel poly 17 59 18 60 0  T1
+<< poly >>
+rect 20 37 21 38
+<< labels >>
+rlabel poly 20 37 21 38 0  T2
+<< metal1 >>
+rect 21 37 22 38
+<< metal1 >>
+rect 22 37 23 38
+<< metal1 >>
+rect 23 37 24 38
+<< metal1 >>
+rect 24 37 25 38
+<< labels >>
+rlabel metal1 24 37 25 38 0 net2
+<< metal1 >>
+rect 25 37 26 38
+<< metal1 >>
+rect 26 37 27 38
+<< metal1 >>
+rect 27 37 28 38
+<< metal1 >>
+rect 28 37 29 38
+<< metal1 >>
+rect 28 38 29 39
+<< metal1 >>
+rect 28 39 29 40
+<< metal1 >>
+rect 28 40 29 41
+<< metal1 >>
+rect 28 41 29 42
+<< metal1 >>
+rect 28 42 29 43
+<< metal1 >>
+rect 28 43 29 44
+<< metal1 >>
+rect 28 44 29 45
+<< metal1 >>
+rect 28 45 29 46
+<< metal1 >>
+rect 28 46 29 47
+<< metal1 >>
+rect 28 47 29 48
+<< metal1 >>
+rect 28 48 29 49
+<< metal1 >>
+rect 28 49 29 50
+<< metal1 >>
+rect 28 50 29 51
+<< metal1 >>
+rect 28 51 29 52
+<< metal1 >>
+rect 28 52 29 53
+<< metal1 >>
+rect 28 53 29 54
+<< metal1 >>
+rect 27 53 28 54
+<< metal1 >>
+rect 26 53 27 54
+<< metal1 >>
+rect 25 53 26 54
+<< metal1 >>
+rect 24 53 25 54
+<< metal1 >>
+rect 23 53 24 54
+<< metal1 >>
+rect 22 53 23 54
+<< metal1 >>
+rect 21 53 22 54
+<< metal1 >>
+rect 20 53 21 54
+<< metal1 >>
+rect 19 53 20 54
+<< metal1 >>
+rect 18 53 19 54
+<< metal1 >>
+rect 17 53 18 54
+<< metal1 >>
+rect 17 54 18 55
+<< metal1 >>
+rect 17 55 18 56
+<< metal1 >>
+rect 17 56 18 57
+<< metal1 >>
+rect 17 57 18 58
+<< metal1 >>
+rect 17 58 18 59
+<< metal1 >>
+rect 17 59 18 60
+<< poly >>
+rect 17 44 18 45
+<< labels >>
+rlabel poly 17 44 18 45 0  T3
+<< poly >>
+rect 20 66 21 67
+<< labels >>
+rlabel poly 20 66 21 67 0  T4
+<< metal1 >>
+rect 21 66 22 67
+<< metal1 >>
+rect 22 66 23 67
+<< metal1 >>
+rect 23 66 24 67
+<< metal1 >>
+rect 24 66 25 67
+<< labels >>
+rlabel metal1 24 66 25 67 0 net3
+<< metal1 >>
+rect 25 66 26 67
+<< metal1 >>
+rect 26 66 27 67
+<< metal1 >>
+rect 27 66 28 67
+<< metal1 >>
+rect 28 66 29 67
+<< metal1 >>
+rect 28 65 29 66
+<< metal1 >>
+rect 28 64 29 65
+<< metal1 >>
+rect 28 63 29 64
+<< metal1 >>
+rect 28 62 29 63
+<< metal1 >>
+rect 28 61 29 62
+<< metal1 >>
+rect 28 60 29 61
+<< metal1 >>
+rect 28 59 29 60
+<< metal1 >>
+rect 28 58 29 59
+<< metal1 >>
+rect 28 57 29 58
+<< metal1 >>
+rect 28 56 29 57
+<< metal1 >>
+rect 28 55 29 56
+<< metal1 >>
+rect 25 50 26 51
+<< metal1 >>
+rect 24 50 25 51
+<< metal1 >>
+rect 23 50 24 51
+<< metal1 >>
+rect 22 50 23 51
+<< metal1 >>
+rect 21 50 22 51
+<< metal1 >>
+rect 20 50 21 51
+<< metal1 >>
+rect 19 50 20 51
+<< metal1 >>
+rect 18 50 19 51
+<< metal1 >>
+rect 17 50 18 51
+<< metal1 >>
+rect 17 49 18 50
+<< metal1 >>
+rect 17 48 18 49
+<< metal1 >>
+rect 17 47 18 48
+<< metal1 >>
+rect 17 46 18 47
+<< metal1 >>
+rect 17 45 18 46
+<< metal1 >>
+rect 17 44 18 45
+<< metal2 >>
+rect 28 55 29 56
+<< metal2 >>
+rect 28 54 29 55
+<< metal2 >>
+rect 28 53 29 54
+<< metal2 >>
+rect 28 52 29 53
+<< labels >>
+rlabel metal2 28 52 29 53 0 net3
+<< metal2 >>
+rect 28 51 29 52
+<< metal2 >>
+rect 28 50 29 51
+<< metal2 >>
+rect 27 50 28 51
+<< metal2 >>
+rect 26 50 27 51
+<< poly >>
+rect 42 37 43 38
+<< labels >>
+rlabel poly 42 37 43 38 0  T2
+<< poly >>
+rect 20 44 21 45
+<< labels >>
+rlabel poly 20 44 21 45 0  T4
+<< metal1 >>
+rect 21 44 22 45
+<< metal1 >>
+rect 22 44 23 45
+<< metal1 >>
+rect 23 44 24 45
+<< metal1 >>
+rect 24 44 25 45
+<< labels >>
+rlabel metal1 24 44 25 45 0 net4
+<< metal1 >>
+rect 25 44 26 45
+<< metal1 >>
+rect 26 44 27 45
+<< metal1 >>
+rect 31 44 32 45
+<< metal1 >>
+rect 31 43 32 44
+<< metal1 >>
+rect 31 42 32 43
+<< metal1 >>
+rect 31 41 32 42
+<< metal1 >>
+rect 31 40 32 41
+<< metal1 >>
+rect 31 39 32 40
+<< metal1 >>
+rect 31 38 32 39
+<< metal1 >>
+rect 31 37 32 38
+<< metal1 >>
+rect 31 36 32 37
+<< metal1 >>
+rect 31 35 32 36
+<< metal1 >>
+rect 31 34 32 35
+<< metal1 >>
+rect 31 33 32 34
+<< metal1 >>
+rect 31 32 32 33
+<< metal1 >>
+rect 31 31 32 32
+<< metal1 >>
+rect 32 31 33 32
+<< metal1 >>
+rect 33 31 34 32
+<< metal1 >>
+rect 34 31 35 32
+<< metal1 >>
+rect 35 31 36 32
+<< metal1 >>
+rect 36 31 37 32
+<< metal1 >>
+rect 37 31 38 32
+<< metal1 >>
+rect 38 31 39 32
+<< metal1 >>
+rect 39 31 40 32
+<< metal1 >>
+rect 40 31 41 32
+<< metal1 >>
+rect 41 31 42 32
+<< metal1 >>
+rect 42 31 43 32
+<< metal1 >>
+rect 42 32 43 33
+<< metal1 >>
+rect 42 33 43 34
+<< metal1 >>
+rect 42 34 43 35
+<< metal1 >>
+rect 42 35 43 36
+<< metal1 >>
+rect 42 36 43 37
+<< metal1 >>
+rect 42 37 43 38
+<< metal2 >>
+rect 26 44 27 45
+<< metal2 >>
+rect 27 44 28 45
+<< metal2 >>
+rect 28 44 29 45
+<< labels >>
+rlabel metal2 28 44 29 45 0 net4
+<< metal2 >>
+rect 29 44 30 45
+<< metal2 >>
+rect 30 44 31 45
+<< poly >>
+rect 39 15 40 16
+<< labels >>
+rlabel poly 39 15 40 16 0  T1
+<< poly >>
+rect 61 15 62 16
+<< labels >>
+rlabel poly 61 15 62 16 0  T1
+<< metal1 >>
+rect 61 14 62 15
+<< metal1 >>
+rect 61 13 62 14
+<< metal1 >>
+rect 61 12 62 13
+<< metal1 >>
+rect 61 11 62 12
+<< labels >>
+rlabel metal1 61 11 62 12 0 net5
+<< metal1 >>
+rect 61 10 62 11
+<< metal1 >>
+rect 61 9 62 10
+<< metal1 >>
+rect 60 9 61 10
+<< metal1 >>
+rect 59 9 60 10
+<< metal1 >>
+rect 58 9 59 10
+<< metal1 >>
+rect 57 9 58 10
+<< metal1 >>
+rect 56 9 57 10
+<< metal1 >>
+rect 55 9 56 10
+<< metal1 >>
+rect 54 9 55 10
+<< metal1 >>
+rect 53 9 54 10
+<< metal1 >>
+rect 52 9 53 10
+<< metal1 >>
+rect 51 9 52 10
+<< metal1 >>
+rect 50 9 51 10
+<< metal1 >>
+rect 49 9 50 10
+<< metal1 >>
+rect 48 9 49 10
+<< metal1 >>
+rect 47 9 48 10
+<< metal1 >>
+rect 46 9 47 10
+<< metal1 >>
+rect 45 9 46 10
+<< metal1 >>
+rect 44 9 45 10
+<< metal1 >>
+rect 43 9 44 10
+<< metal1 >>
+rect 42 9 43 10
+<< metal1 >>
+rect 41 9 42 10
+<< metal1 >>
+rect 40 9 41 10
+<< metal1 >>
+rect 39 9 40 10
+<< metal1 >>
+rect 39 10 40 11
+<< metal1 >>
+rect 39 11 40 12
+<< metal1 >>
+rect 39 12 40 13
+<< metal1 >>
+rect 39 13 40 14
+<< metal1 >>
+rect 39 14 40 15
+<< metal1 >>
+rect 39 15 40 16
+<< poly >>
+rect 20 15 21 16
+<< labels >>
+rlabel poly 20 15 21 16 0  T2
+<< poly >>
+rect 42 44 43 45
+<< labels >>
+rlabel poly 42 44 43 45 0  T4
+<< metal1 >>
+rect 43 44 44 45
+<< metal1 >>
+rect 44 44 45 45
+<< metal1 >>
+rect 45 44 46 45
+<< metal1 >>
+rect 46 44 47 45
+<< labels >>
+rlabel metal1 46 44 47 45 0 net6
+<< metal1 >>
+rect 47 44 48 45
+<< metal1 >>
+rect 48 44 49 45
+<< metal1 >>
+rect 49 44 50 45
+<< metal1 >>
+rect 50 44 51 45
+<< metal1 >>
+rect 50 43 51 44
+<< metal1 >>
+rect 50 42 51 43
+<< metal1 >>
+rect 50 41 51 42
+<< metal1 >>
+rect 50 40 51 41
+<< metal1 >>
+rect 50 39 51 40
+<< metal1 >>
+rect 50 38 51 39
+<< metal1 >>
+rect 50 37 51 38
+<< metal1 >>
+rect 50 36 51 37
+<< metal1 >>
+rect 50 35 51 36
+<< metal1 >>
+rect 50 34 51 35
+<< metal1 >>
+rect 50 33 51 34
+<< metal1 >>
+rect 50 32 51 33
+<< metal1 >>
+rect 50 31 51 32
+<< metal1 >>
+rect 50 30 51 31
+<< metal1 >>
+rect 50 29 51 30
+<< metal1 >>
+rect 50 28 51 29
+<< metal1 >>
+rect 49 28 50 29
+<< metal1 >>
+rect 48 28 49 29
+<< metal1 >>
+rect 47 28 48 29
+<< metal1 >>
+rect 46 28 47 29
+<< metal1 >>
+rect 45 28 46 29
+<< metal1 >>
+rect 44 28 45 29
+<< metal1 >>
+rect 43 28 44 29
+<< metal1 >>
+rect 42 28 43 29
+<< metal1 >>
+rect 41 28 42 29
+<< metal1 >>
+rect 40 28 41 29
+<< metal1 >>
+rect 39 28 40 29
+<< metal1 >>
+rect 38 28 39 29
+<< metal1 >>
+rect 37 28 38 29
+<< metal1 >>
+rect 36 28 37 29
+<< metal1 >>
+rect 35 28 36 29
+<< metal1 >>
+rect 34 28 35 29
+<< metal1 >>
+rect 33 28 34 29
+<< metal1 >>
+rect 32 28 33 29
+<< metal1 >>
+rect 31 28 32 29
+<< metal1 >>
+rect 30 28 31 29
+<< metal1 >>
+rect 29 28 30 29
+<< metal1 >>
+rect 28 28 29 29
+<< metal1 >>
+rect 28 27 29 28
+<< metal1 >>
+rect 28 26 29 27
+<< metal1 >>
+rect 28 25 29 26
+<< metal1 >>
+rect 28 24 29 25
+<< metal1 >>
+rect 28 23 29 24
+<< metal1 >>
+rect 28 22 29 23
+<< metal1 >>
+rect 28 21 29 22
+<< metal1 >>
+rect 28 20 29 21
+<< metal1 >>
+rect 28 19 29 20
+<< metal1 >>
+rect 28 18 29 19
+<< metal1 >>
+rect 28 17 29 18
+<< metal1 >>
+rect 28 16 29 17
+<< metal1 >>
+rect 28 15 29 16
+<< metal1 >>
+rect 27 15 28 16
+<< metal1 >>
+rect 26 15 27 16
+<< metal1 >>
+rect 25 15 26 16
+<< metal1 >>
+rect 24 15 25 16
+<< metal1 >>
+rect 23 15 24 16
+<< metal1 >>
+rect 22 15 23 16
+<< metal1 >>
+rect 21 15 22 16
+<< metal1 >>
+rect 20 15 21 16
+<< poly >>
+rect 64 15 65 16
+<< labels >>
+rlabel poly 64 15 65 16 0  T2
+<< poly >>
+rect 83 22 84 23
+<< labels >>
+rlabel poly 83 22 84 23 0  T3
+<< metal1 >>
+rect 82 22 83 23
+<< metal1 >>
+rect 81 22 82 23
+<< metal1 >>
+rect 80 22 81 23
+<< metal1 >>
+rect 79 22 80 23
+<< labels >>
+rlabel metal1 79 22 80 23 0 net7
+<< metal1 >>
+rect 78 22 79 23
+<< metal1 >>
+rect 77 22 78 23
+<< metal1 >>
+rect 76 22 77 23
+<< metal1 >>
+rect 75 22 76 23
+<< metal1 >>
+rect 74 22 75 23
+<< metal1 >>
+rect 73 22 74 23
+<< metal1 >>
+rect 72 22 73 23
+<< metal1 >>
+rect 72 21 73 22
+<< metal1 >>
+rect 72 20 73 21
+<< metal1 >>
+rect 72 19 73 20
+<< metal1 >>
+rect 72 18 73 19
+<< metal1 >>
+rect 72 17 73 18
+<< metal1 >>
+rect 72 16 73 17
+<< metal1 >>
+rect 72 15 73 16
+<< metal1 >>
+rect 71 15 72 16
+<< metal1 >>
+rect 70 15 71 16
+<< metal1 >>
+rect 69 15 70 16
+<< metal1 >>
+rect 68 15 69 16
+<< metal1 >>
+rect 67 15 68 16
+<< metal1 >>
+rect 66 15 67 16
+<< metal1 >>
+rect 65 15 66 16
+<< metal1 >>
+rect 64 15 65 16
+<< poly >>
+rect 83 44 84 45
+<< labels >>
+rlabel poly 83 44 84 45 0  T3
+<< poly >>
+rect 86 44 87 45
+<< labels >>
+rlabel poly 86 44 87 45 0  T4
+<< metal1 >>
+rect 86 45 87 46
+<< metal1 >>
+rect 86 46 87 47
+<< metal1 >>
+rect 86 47 87 48
+<< metal1 >>
+rect 86 48 87 49
+<< labels >>
+rlabel metal1 86 48 87 49 0 net8
+<< metal1 >>
+rect 86 49 87 50
+<< metal1 >>
+rect 86 50 87 51
+<< metal1 >>
+rect 85 50 86 51
+<< metal1 >>
+rect 84 50 85 51
+<< metal1 >>
+rect 83 50 84 51
+<< metal1 >>
+rect 83 49 84 50
+<< metal1 >>
+rect 83 48 84 49
+<< metal1 >>
+rect 83 47 84 48
+<< metal1 >>
+rect 83 46 84 47
+<< metal1 >>
+rect 83 45 84 46
+<< metal1 >>
+rect 83 44 84 45
+<< poly >>
+rect 17 22 18 23
+<< labels >>
+rlabel poly 17 22 18 23 0  T3
+<< poly >>
+rect 42 22 43 23
+<< labels >>
+rlabel poly 42 22 43 23 0  T4
+<< metal1 >>
+rect 42 23 43 24
+<< metal1 >>
+rect 42 24 43 25
+<< metal1 >>
+rect 42 25 43 26
+<< metal1 >>
+rect 42 26 43 27
+<< labels >>
+rlabel metal1 42 26 43 27 0 net9
+<< metal1 >>
+rect 25 28 26 29
+<< metal1 >>
+rect 24 28 25 29
+<< metal1 >>
+rect 23 28 24 29
+<< metal1 >>
+rect 22 28 23 29
+<< metal1 >>
+rect 21 28 22 29
+<< metal1 >>
+rect 20 28 21 29
+<< metal1 >>
+rect 19 28 20 29
+<< metal1 >>
+rect 18 28 19 29
+<< metal1 >>
+rect 17 28 18 29
+<< metal1 >>
+rect 17 27 18 28
+<< metal1 >>
+rect 17 26 18 27
+<< metal1 >>
+rect 17 25 18 26
+<< metal1 >>
+rect 17 24 18 25
+<< metal1 >>
+rect 17 23 18 24
+<< metal1 >>
+rect 17 22 18 23
+<< metal2 >>
+rect 42 26 43 27
+<< metal2 >>
+rect 42 27 43 28
+<< metal2 >>
+rect 42 28 43 29
+<< metal2 >>
+rect 41 28 42 29
+<< metal2 >>
+rect 40 28 41 29
+<< metal2 >>
+rect 39 28 40 29
+<< metal2 >>
+rect 38 28 39 29
+<< metal2 >>
+rect 37 28 38 29
+<< metal2 >>
+rect 36 28 37 29
+<< metal2 >>
+rect 35 28 36 29
+<< labels >>
+rlabel metal2 35 28 36 29 0 net9
+<< metal2 >>
+rect 34 28 35 29
+<< metal2 >>
+rect 33 28 34 29
+<< metal2 >>
+rect 32 28 33 29
+<< metal2 >>
+rect 31 28 32 29
+<< metal2 >>
+rect 30 28 31 29
+<< metal2 >>
+rect 29 28 30 29
+<< metal2 >>
+rect 28 28 29 29
+<< metal2 >>
+rect 27 28 28 29
+<< metal2 >>
+rect 26 28 27 29
+<< poly >>
+rect 42 15 43 16
+<< labels >>
+rlabel poly 42 15 43 16 0  T2
+<< poly >>
+rect 17 66 18 67
+<< labels >>
+rlabel poly 17 66 18 67 0  T3
+<< metal1 >>
+rect 16 66 17 67
+<< metal1 >>
+rect 15 66 16 67
+<< metal1 >>
+rect 14 66 15 67
+<< metal1 >>
+rect 13 66 14 67
+<< labels >>
+rlabel metal1 13 66 14 67 0 net10
+<< metal1 >>
+rect 12 66 13 67
+<< metal1 >>
+rect 11 66 12 67
+<< metal1 >>
+rect 10 66 11 67
+<< metal1 >>
+rect 9 66 10 67
+<< metal1 >>
+rect 9 65 10 66
+<< metal1 >>
+rect 9 64 10 65
+<< metal1 >>
+rect 9 63 10 64
+<< metal1 >>
+rect 9 62 10 63
+<< metal1 >>
+rect 9 61 10 62
+<< metal1 >>
+rect 9 60 10 61
+<< metal1 >>
+rect 9 59 10 60
+<< metal1 >>
+rect 9 58 10 59
+<< metal1 >>
+rect 9 57 10 58
+<< metal1 >>
+rect 9 56 10 57
+<< metal1 >>
+rect 9 55 10 56
+<< metal1 >>
+rect 9 54 10 55
+<< metal1 >>
+rect 9 53 10 54
+<< metal1 >>
+rect 9 52 10 53
+<< metal1 >>
+rect 9 51 10 52
+<< metal1 >>
+rect 9 50 10 51
+<< metal1 >>
+rect 9 49 10 50
+<< metal1 >>
+rect 9 48 10 49
+<< metal1 >>
+rect 9 47 10 48
+<< metal1 >>
+rect 9 46 10 47
+<< metal1 >>
+rect 9 45 10 46
+<< metal1 >>
+rect 9 44 10 45
+<< metal1 >>
+rect 9 43 10 44
+<< metal1 >>
+rect 9 42 10 43
+<< metal1 >>
+rect 9 41 10 42
+<< metal1 >>
+rect 9 40 10 41
+<< metal1 >>
+rect 9 39 10 40
+<< metal1 >>
+rect 9 38 10 39
+<< metal1 >>
+rect 9 37 10 38
+<< metal1 >>
+rect 9 36 10 37
+<< metal1 >>
+rect 9 35 10 36
+<< metal1 >>
+rect 9 34 10 35
+<< metal1 >>
+rect 9 33 10 34
+<< metal1 >>
+rect 9 32 10 33
+<< metal1 >>
+rect 9 31 10 32
+<< metal1 >>
+rect 9 30 10 31
+<< metal1 >>
+rect 9 29 10 30
+<< metal1 >>
+rect 9 28 10 29
+<< metal1 >>
+rect 9 27 10 28
+<< metal1 >>
+rect 9 26 10 27
+<< metal1 >>
+rect 9 25 10 26
+<< metal1 >>
+rect 9 24 10 25
+<< metal1 >>
+rect 9 23 10 24
+<< metal1 >>
+rect 9 22 10 23
+<< metal1 >>
+rect 9 21 10 22
+<< metal1 >>
+rect 9 20 10 21
+<< metal1 >>
+rect 9 19 10 20
+<< metal1 >>
+rect 9 18 10 19
+<< metal1 >>
+rect 9 17 10 18
+<< metal1 >>
+rect 9 16 10 17
+<< metal1 >>
+rect 9 15 10 16
+<< metal1 >>
+rect 9 14 10 15
+<< metal1 >>
+rect 9 13 10 14
+<< metal1 >>
+rect 9 12 10 13
+<< metal1 >>
+rect 9 11 10 12
+<< metal1 >>
+rect 9 10 10 11
+<< metal1 >>
+rect 9 9 10 10
+<< metal1 >>
+rect 10 9 11 10
+<< metal1 >>
+rect 11 9 12 10
+<< metal1 >>
+rect 12 9 13 10
+<< metal1 >>
+rect 13 9 14 10
+<< metal1 >>
+rect 14 9 15 10
+<< metal1 >>
+rect 15 9 16 10
+<< metal1 >>
+rect 16 9 17 10
+<< metal1 >>
+rect 17 9 18 10
+<< metal1 >>
+rect 18 9 19 10
+<< metal1 >>
+rect 19 9 20 10
+<< metal1 >>
+rect 20 9 21 10
+<< metal1 >>
+rect 21 9 22 10
+<< metal1 >>
+rect 22 9 23 10
+<< metal1 >>
+rect 23 9 24 10
+<< metal1 >>
+rect 24 9 25 10
+<< metal1 >>
+rect 25 9 26 10
+<< metal1 >>
+rect 26 9 27 10
+<< metal1 >>
+rect 27 9 28 10
+<< metal1 >>
+rect 28 9 29 10
+<< metal1 >>
+rect 29 9 30 10
+<< metal1 >>
+rect 30 9 31 10
+<< metal1 >>
+rect 31 9 32 10
+<< metal1 >>
+rect 32 9 33 10
+<< metal1 >>
+rect 33 9 34 10
+<< metal1 >>
+rect 34 9 35 10
+<< metal1 >>
+rect 35 9 36 10
+<< metal1 >>
+rect 36 9 37 10
+<< metal1 >>
+rect 37 9 38 10
+<< metal1 >>
+rect 42 12 43 13
+<< metal1 >>
+rect 42 13 43 14
+<< metal1 >>
+rect 42 14 43 15
+<< metal1 >>
+rect 42 15 43 16
+<< metal2 >>
+rect 37 9 38 10
+<< metal2 >>
+rect 38 9 39 10
+<< metal2 >>
+rect 39 9 40 10
+<< metal2 >>
+rect 40 9 41 10
+<< labels >>
+rlabel metal2 40 9 41 10 0 net10
+<< metal2 >>
+rect 41 9 42 10
+<< metal2 >>
+rect 42 9 43 10
+<< metal2 >>
+rect 42 10 43 11
+<< metal2 >>
+rect 42 11 43 12
+<< m2contact >>
+rect 28 55 29 56
+<< m2contact >>
+rect 25 50 26 51
+<< m2contact >>
+rect 26 44 27 45
+<< m2contact >>
+rect 31 44 32 45
+<< m2contact >>
+rect 42 26 43 27
+<< m2contact >>
+rect 25 28 26 29
+<< m2contact >>
+rect 37 9 38 10
+<< m2contact >>
+rect 42 12 43 13
